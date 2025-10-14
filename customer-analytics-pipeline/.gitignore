@@ -1,0 +1,11 @@
+data/*
+!data/.gitkeep
+dashboards/tableau/*
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+.venv
+.DS_Store
+logs/
+models/
